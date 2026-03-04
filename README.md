@@ -4,7 +4,7 @@ Esse projeto automatiza o faturamento das locações que eu faço todo mês. Eu 
 
 O sistema faz a parte repetitiva sozinho. Eu só preciso entrar para tomar as decisões baseadas nos BMs que já foram aprovados e fazer a gestão dos pedidos (PC) que vão nas faturas. O objetivo é não perder tempo com processo mecânico que o computador resolve. 
 
-É uma ferramenta que eu uso todo mês na prática, não é projeto parado.
+É uma ferramenta que eu uso todo mês na prática
 
 ## Funcionalidades
 
