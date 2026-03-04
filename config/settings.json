@@ -1,0 +1,18 @@
+{
+    "caminhos": {
+        "planilha_base": "Faturamento/Cobrança - 2026.xlsx",
+        "raiz_faturamento": "Faturamento"
+    },
+    "smtp": {
+        "host": "smtp-mail.exemplo.com.br",
+        "porta": 587,
+        "usuario": "usuario@exemplo.com.br",
+        "senha": "sua_senha_aqui"
+    },
+    "imap": {
+        "host": "imap.exemplo.com.br",
+        "porta": 993,
+        "usuario": "usuario@exemplo.com.br",
+        "senha": "sua_senha_aqui"
+    }
+}

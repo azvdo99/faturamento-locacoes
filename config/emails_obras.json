@@ -1,0 +1,35 @@
+{
+  "destinatarios": {
+    "101": [
+      "gestor1@cliente.com.br",
+      "encarregado1@cliente.com.br"
+    ],
+    "102": [
+      "admin1@cliente.com.br",
+      "financeiro@cliente.com.br"
+    ],
+    "103": [
+      "obra1@cliente.com.br"
+    ],
+    "104": [
+      "projetos@cliente.com.br",
+      "suporte@cliente.com.br"
+    ]
+  },
+  "copia": [
+    "coordenacao@empresa.com.br",
+    "arquivo@empresa.com.br"
+  ],
+  "copias_por_os": {
+    "101": "supervisor1@empresa.com.br",
+    "102": "supervisor2@empresa.com.br",
+    "103": "supervisor1@empresa.com.br",
+    "104": "supervisor3@empresa.com.br"
+  },
+  "eng_rc": {
+    "101": "Engenheiro(a) Responsável 1",
+    "102": "Engenheiro(a) Responsável 2",
+    "103": "Engenheiro(a) Responsável 1",
+    "104": "Engenheiro(a) Responsável 3"
+  }
+}
